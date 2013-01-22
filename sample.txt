@@ -1,2 +1,2 @@
-Test
-insert the page when the console is panning . tick your mouse on the checkble area.
+Hi Ravivarma , Nice to start GIT distributed version control system
+This is in GitHub web site. I have edited the files. And commit.
