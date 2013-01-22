@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Grit
 ====
 
@@ -234,3 +235,9 @@ Copyright
 ---------
 
 Copyright (c) 2008 Tom Preston-Werner. See LICENSE for details.
+=======
+ticker-toppick
+==============
+
+Adding source and technical guide
+>>>>>>> cfd46e39cf9007bc35bea2f0b935f58c778c1c07
